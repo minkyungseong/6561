@@ -3,7 +3,7 @@
 6561 is implemented in Python and uses Tkinter as the GUI framework.
 
 ## Basic Rules
-6561 is a new variation of the well-known game, 2048.
+6561 is a new variation of the well-known game, [2048](https://github.com/gabrielecirulli/2048).
 The goal is to create 6561, a power of 3.
 <img width="533" alt="image" src="https://user-images.githubusercontent.com/88609253/188261591-189848a0-a787-450a-af4e-e3eea7f144e2.png">
 
